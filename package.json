@@ -1,0 +1,23 @@
+{
+  "name": "generator-maxmaster",
+  "version": "0.1.0",
+  "description": "generator-maxmaster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Max Vasin Limsukhawat",
+    "email": "vasin.limsukhawat@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
